@@ -828,7 +828,7 @@
   <string name="no_thumbnail">Sin miniatura</string>
   <string name="none_picture">Sin imágenes</string>
   <string name="not_auto_create_recent_album">Deshacer crear favoritos</string>
-  <string name="not_is">¿No es %s?</string>
+  <string name="not_is">No es</string>
   <string name="not_now">Ahora no</string>
   <string name="not_remind_any_more">No mostrar de nuevo</string>
   <string name="not_show_hidden_albums">No mostrar álbumes ocultos</string>
